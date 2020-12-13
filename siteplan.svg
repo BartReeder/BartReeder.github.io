@@ -1,0 +1,380 @@
+<svg width="600" height="460" style="background-color:white" xmlns="http://www.w3.org/2000/svg">
+	<rect x="0" y="49.5" width="125" height="250" fill="limegreen"/>
+	<circle cx="300" cy="400" r="37.5" fill="transparent" stroke="black"/>
+	<polygon points="300 375, 281.25 418.75, 300 412.5, 318.75 418.75"/>
+	<text x="300" y="360" text-anchor="middle" font-size="2em">N</text>
+	<rect x="125" y="350" width="25" height="12.5" fill="cyan" stroke="black"/>
+	<text x="155" y="361" font-size="0.75em">= Reeder Homes</text>
+	<text x="125" y="35" font-size="1.5em">Canterbury Cove Community Map</text>
+	<text x="125" y="337.5" font-size="0.75em">Not to scale.</text>
+	<rect x="532.5" y="49.5" width="7.5" height="386" fill="limegreen" stroke="transparent"/>
+	<path d="M 100 50
+           V 100
+           H 75
+		   Q 50 100 50 125
+		   V 250
+		   Q 50 275 75 275
+		   H 112.5
+		   Q 125 275 125 287.5
+		   V 325
+		   H 400
+		   V 435
+		   H 532.5
+		   V 50
+           Z" fill="white" stroke="black"/>
+	<line x1="540" y1="49.5" x2="540" y2="435.5" fill="transparent" stroke="grey"/>
+	<rect x="531.5" y="50.5" width="9.5" height="24" fill="white" stroke="transparent"/>
+	<rect x="531.5" y="270.5" width="9.5" height="19" fill="white" stroke="transparent"/>
+	<polyline points="125 50, 125 100, 100 100" fill="transparent" stroke="black"/>
+	<line x1="575" y1="50" x2="575" y2="435" fill="transparent" stroke="black"/>
+	<polygon points="332 119.5, 400.5 119.5, 400.5 170, 350.28125 170, 350.28125 255.5, 332 255.5, 332 194.5, 279 194.5, 279 180.5, 332 180.5" fill="limegreen"/>
+	<polygon points="271.5 180.5, 271.5 194.5, 218.5 195, 218.5 255.5, 188 255.5, 188 194.5, 135 194.5, 135 180.5, 188 180.5, 188 119.5, 218.5 119.5, 218.5 180.5" fill="limegreen"/>
+	<rect x="74.5" y="180.5" width="53" height="14" fill="limegreen"/>
+	<polygon points="419.5 289.5, 419.5 274.5, 518.9375 289.5" fill="limegreen"/>
+	<polygon points="419.5 255.5, 518.9375 255.5, 518.9375 270.5" fill="limegreen"/>
+	<rect x="419.5" y="350" height="15" width="46" fill="limegreen"/>
+	<rect x="472.9375" y="350" height="15" width="46" fill="limegreen"/>
+	<rect x="465.5" y="281" width="7.4375" height="9" fill="white"/>
+	
+	<line x1="32.5" y1="255" x2="50" y2="255" fill="transparent" stroke="black"/>
+	<line x1="32.5" y1="250" x2="50" y2="250" fill="transparent" stroke="black"/>
+	<path d="M 85 5
+           L 20 138.5
+		   Q 15 147.5 15 165
+		   L 12.5 435
+		   H 0
+		   V 5
+		   Z" fill="deepskyblue" stroke="transparent"/>
+	<path d="M 85 5
+           L 20 138.5
+		   Q 15 147.5 15 165
+		   L 12.5 435
+		   " fill="transparent" stroke="black"/>
+		   
+	<path d="M 0 145
+           Q 10 145, 10 125
+           Q 20 125, 20 105
+           Q 30 105, 30 85
+           Q 40 85, 40 65
+           Q 50 65, 50 45
+           Q 60 45, 60 25
+           Q 70 25, 70 5
+           " fill="transparent" stroke="black"/>
+	<path d="M -5 125
+           Q 5 125, 5 105
+           Q 15 105, 15 85
+           Q 25 85, 25 65
+           Q 35 65, 35 45
+           Q 45 45, 45 25
+           Q 55 25, 55 5
+           " fill="transparent" stroke="black"/>
+	<path d="M 0 85
+           Q 10 85, 10 65
+           Q 20 65, 20 45
+           Q 30 45, 30 25
+           Q 40 25, 40 5
+           " fill="transparent" stroke="black"/>
+	<path d="M -5 65
+           Q 5 65, 5 45
+           Q 15 45, 15 25
+           Q 25 25, 25 5
+           " fill="transparent" stroke="black"/>
+	
+	<path d="M 100 5
+           Q 82.5 60, 65 75
+		   T 30 145
+		   Q 27.5 152.5, 27.5 160
+		   L 27.5 299.5
+		   " fill="transparent" stroke="black"/>
+	<path d="M 105 5
+           Q 87.5 60, 70 75
+		   T 35 145
+		   Q 32.5 152.5, 32.5 160
+		   L 32.5 299.5
+		   " fill="transparent" stroke="black"/>
+	<line x1="27.5" y1="301.5" x2="27.5" y2="435" fill="transparent" stroke-dasharray="3,2" stroke="black"/>
+	<line x1="32.5" y1="301.5" x2="32.5" y2="435" fill="transparent" stroke-dasharray="3,2" stroke="black"/>
+	<line x1="32.5" y1="250.5" x2="32.5" y2="254.5" fill="transparent" stroke-width="2" stroke="limegreen"/>
+	<line x1="96" y1="49.5" x2="96" y2="4" fill="transparent" stroke-width="20" stroke-dasharray="2,3" stroke="white"/>
+	<line x1="96" y1="49.5" x2="96" y2="40" fill="transparent" stroke-width="30" stroke-dasharray="2,3" stroke="white"/>
+	<line x1="0" y1="5" x2="150" y2="5" fill="transparent" stroke="white"/>
+	<!--<path d="M -5 215
+           Q 12.5 200, 30 145
+		   T 65 75
+		   T 100 5
+		   " fill="transparent" stroke="black"/>
+	<path d="M 0 215
+           Q 17.5 200, 35 145
+		   T 70 75
+		   T 105 5
+		   " fill="transparent" stroke="black"/>-->
+	<rect x="137" y="60" width="50" height="40" fill="cyan" stroke="black"/>
+	<line x1="154" y1="60" x2="154" y2="100" stroke="black"/>
+	<line x1="171" y1="60" x2="171" y2="100" stroke="black"/>
+	<text x="145.75" y="80" text-anchor="middle" font-size="0.5em">F2</text>
+	<text x="162.25" y="80" text-anchor="middle" font-size="0.5em">F3</text>
+	<text x="179.25" y="80" text-anchor="middle" font-size="0.5em">F4</text>
+	
+	<rect x="204" y="60" width="196" height="40" fill="cyan" stroke="black"/>
+	<line x1="221.8" y1="60" x2="221.8" y2="100" stroke="black"/>
+	<line x1="239.6" y1="60" x2="239.6" y2="100" stroke="black"/>
+	<line x1="257.4" y1="60" x2="257.4" y2="100" stroke="black"/>
+	<line x1="275.2" y1="60" x2="275.2" y2="100" stroke="black"/>
+	<line x1="293" y1="60" x2="293" y2="100" stroke="black"/>
+	<line x1="310.8" y1="60" x2="310.8" y2="100" stroke="black"/>
+	<line x1="328.6" y1="60" x2="328" y2="100" stroke="black"/>
+	<line x1="346.4" y1="60" x2="346.4" y2="100" stroke="black"/>
+	<line x1="364.2" y1="60" x2="364.2" y2="100" stroke="black"/>
+	<line x1="382" y1="60" x2="382" y2="100" stroke="black"/>
+	
+	<text x="212.9" y="80" text-anchor="middle" font-size="0.5em">G1</text>
+	<text x="230.7" y="80" text-anchor="middle" font-size="0.5em">G2</text>
+	<text x="248.5" y="80" text-anchor="middle" font-size="0.5em">G3</text>
+	<text x="266.3" y="80" text-anchor="middle" font-size="0.5em">G4</text>
+	<text x="284.1" y="80" text-anchor="middle" font-size="0.5em">G5</text>
+	<text x="301.9" y="80" text-anchor="middle" font-size="0.5em">G6</text>
+	<text x="319.7" y="80" text-anchor="middle" font-size="0.5em">G7</text>
+	<text x="337.5" y="80" text-anchor="middle" font-size="0.5em">G8</text>
+	<text x="355.3" y="80" text-anchor="middle" font-size="0.5em">G9</text>
+	<text x="373.1" y="80" text-anchor="middle" font-size="0.5em">G10</text>
+	<text x="390.9" y="80" text-anchor="middle" font-size="0.5em">G11</text>
+	
+	
+	<rect x="75" y="120" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="75" y1="140" x2="127" y2="140" stroke="black"/>
+	<line x1="75" y1="160" x2="127" y2="160" stroke="black"/>
+	<rect x="135.5" y="120" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="135.5" y1="140" x2="187.5" y2="140" stroke="black"/>
+	<line x1="135.5" y1="160" x2="187.5" y2="160" stroke="black"/>
+	<rect x="219" y="120" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="219" y1="140" x2="271" y2="140" stroke="black"/>
+	<line x1="219" y1="160" x2="271" y2="160" stroke="black"/>
+	<rect x="279.5" y="120" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="279.5" y1="140" x2="331.5" y2="140" stroke="black"/>
+	<line x1="279.5" y1="160" x2="331.5" y2="160" stroke="black"/>
+	
+	
+	<rect x="75" y="195" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="75" y1="215" x2="127" y2="215" stroke="black"/>
+	<line x1="75" y1="235" x2="127" y2="235" stroke="black"/>
+	<rect x="135.5" y="195" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="135.5" y1="215" x2="187.5" y2="215" stroke="black"/>
+	<line x1="135.5" y1="235" x2="187.5" y2="235" stroke="black"/>
+	<rect x="219" y="195" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="219" y1="215" x2="271" y2="215" stroke="black"/>
+	<line x1="219" y1="235" x2="271" y2="235" stroke="black"/>
+	<rect x="279.5" y="195" width="52" height="60" fill="transparent" stroke="black"/>
+	<line x1="279.5" y1="215" x2="331.5" y2="215" stroke="black"/>
+	<line x1="279.5" y1="235" x2="331.5" y2="235" stroke="black"/>
+	
+	<rect x="137.5" y="275" width="131.25" height="40" fill="cyan" stroke="black"/>
+	<line x1="153.90625" y1="275" x2="153.90625" y2="315" stroke="black"/>
+	<line x1="170.3125" y1="275" x2="170.3125" y2="315" stroke="black"/>
+	<line x1="186.71875" y1="275" x2="186.71875" y2="315" stroke="black"/>
+	<line x1="203.125" y1="275" x2="203.125" y2="315" stroke="black"/>
+	<line x1="219.53125" y1="275" x2="219.53125" y2="315" stroke="black"/>
+	<line x1="235.9375" y1="275" x2="235.9375" y2="315" stroke="black"/>
+	<line x1="252.34375" y1="275" x2="252.34375" y2="315" stroke="black"/>
+	<rect x="268.75" y="275" width="98.4375" height="40" fill="transparent" stroke="black"/>
+	<line x1="285.15625" y1="275" x2="285.15625" y2="315" stroke="black"/>
+	<line x1="301.5625" y1="275" x2="301.5625" y2="315" stroke="black"/>
+	<line x1="317.96875" y1="275" x2="317.96875" y2="315" stroke="black"/>
+	<line x1="334.375" y1="275" x2="334.375" y2="315" stroke="black"/>
+	<line x1="350.78125" y1="275" x2="350.78125" y2="315" stroke="black"/>
+	<rect x="367.1875" y="275" width="32.8125" height="40" fill="cyan" stroke="black"/>
+	<line x1="383.59375" y1="275" x2="383.59375" y2="315" stroke="black"/>
+	
+	<text x="145.7" y="295" text-anchor="middle" font-size="0.5em">D1</text>
+	<text x="162.109375" y="295" text-anchor="middle" font-size="0.5em">D2</text>
+	<text x="178.515625" y="295" text-anchor="middle" font-size="0.5em">D3</text>
+	<text x="194.921875" y="295" text-anchor="middle" font-size="0.5em">D4</text>
+	<text x="211.328125" y="295" text-anchor="middle" font-size="0.5em">D5</text>
+	<text x="227.734375" y="295" text-anchor="middle" font-size="0.5em">D6</text>
+	<text x="244.140625" y="295" text-anchor="middle" font-size="0.5em">D7</text>
+	<text x="260.546875" y="295" text-anchor="middle" font-size="0.5em">D8</text>
+	<text x="375.390625" y="295" text-anchor="middle" font-size="0.5em">D15</text>
+	<text x="391.796875" y="295" text-anchor="middle" font-size="0.5em">D16</text>
+	
+	<rect x="420" y="75" width="45" height="78" fill="transparent" stroke="black"/>
+	<line x1="420" y1="88" x2="465" y2="88" stroke="black"/>
+	<line x1="420" y1="101" x2="465" y2="101" stroke="black"/>
+	<line x1="420" y1="114" x2="465" y2="114" stroke="black"/>
+	<line x1="420" y1="127" x2="465" y2="127" stroke="black"/>
+	<line x1="420" y1="140" x2="465" y2="140" stroke="black"/>
+	
+	<rect x="473.4375" y="75" width="45" height="78" fill="cyan" stroke="black"/>
+	<line x1="473.4375" y1="88" x2="518.4375" y2="88" stroke="black"/>
+	<line x1="473.4375" y1="101" x2="518.4375" y2="101" stroke="black"/>
+	<line x1="473.4375" y1="114" x2="518.4375" y2="114" stroke="black"/>
+	<line x1="473.4375" y1="127" x2="518.4375" y2="127" stroke="black"/>
+	<line x1="473.4375" y1="140" x2="518.4375" y2="140" stroke="black"/>
+	
+	<text x="495.9375" y="84" text-anchor="middle" font-size="0.5em">A1</text>
+	<text x="495.9375" y="97" text-anchor="middle" font-size="0.5em">A2</text>
+	<text x="495.9375" y="110" text-anchor="middle" font-size="0.5em">A3</text>
+	<text x="495.9375" y="123" text-anchor="middle" font-size="0.5em">A4</text>
+	<text x="495.9375" y="136" text-anchor="middle" font-size="0.5em">A5</text>
+	<text x="495.9375" y="149" text-anchor="middle" font-size="0.5em">A6</text>
+	
+	<rect x="350.78125" y="170" width="49.21875" height="37.5" fill="transparent" stroke="black"/>
+	<line x1="367.1875" y1="170" x2="367.1875" y2="207.5" stroke="black"/>
+	<line x1="383.59375" y1="170" x2="383.59375" y2="207.5" stroke="black"/>
+	
+	<rect x="350.78125" y="217.5" width="49.21875" height="37.5" fill="transparent" stroke="black"/>
+	<line x1="367.1875" y1="217.5" x2="367.1875" y2="255" stroke="black"/>
+	<line x1="383.59375" y1="217.5" x2="383.59375" y2="255" stroke="black"/>
+	
+	<rect x="420" y="170" width="98.4375" height="37.5" fill="transparent" stroke="black"/>
+	<line x1="436.40525" y1="170" x2="436.40525" y2="207.5" stroke="black"/>
+	<line x1="452.8125" y1="170" x2="452.8125" y2="207.5" stroke="black"/>
+	<line x1="469.21875" y1="170" x2="469.21875" y2="207.5" stroke="black"/>
+	<line x1="485.625" y1="170" x2="485.625" y2="207.5" stroke="black"/>
+	<line x1="502.03125" y1="170" x2="502.03125" y2="207.5" stroke="black"/>
+	
+	<rect x="420" y="217.5" width="98.4375" height="37.5" fill="transparent" stroke="black"/>
+	<line x1="436.40525" y1="217.5" x2="436.40525" y2="255" stroke="black"/>
+	<line x1="452.8125" y1="217.5" x2="452.8125" y2="255" stroke="black"/>
+	<line x1="469.21875" y1="217.5" x2="469.21875" y2="255" stroke="black"/>
+	<line x1="485.625" y1="217.5" x2="485.625" y2="255" stroke="black"/>
+	<line x1="502.03125" y1="217.5" x2="502.03125" y2="255" stroke="black"/>
+
+	<rect x="420" y="290" width="45" height="60" fill="transparent" stroke="black"/>
+	<line x1="420" y1="300" x2="465" y2="300" stroke="black"/>
+	<line x1="420" y1="310" x2="465" y2="310" stroke="black"/>
+	<line x1="420" y1="320" x2="465" y2="320" stroke="black"/>
+	<line x1="420" y1="330" x2="465" y2="330" stroke="black"/>
+	<line x1="420" y1="340" x2="465" y2="340" stroke="black"/>
+	
+	<rect x="473.4375" y="290" width="45" height="60" fill="transparent" stroke="black"/>
+	<line x1="473.4375" y1="300" x2="518.4375" y2="300" stroke="black"/>
+	<line x1="473.4375" y1="310" x2="518.4375" y2="310" stroke="black"/>
+	<line x1="473.4375" y1="320" x2="518.4375" y2="320" stroke="black"/>
+	<line x1="473.4375" y1="330" x2="518.4375" y2="330" stroke="black"/>
+	<line x1="473.4375" y1="340" x2="518.4375" y2="340" stroke="black"/>
+	
+	<rect x="420" y="365" width="45" height="60" fill="transparent" stroke="black"/>
+	<line x1="420" y1="375" x2="465" y2="375" stroke="black"/>
+	<line x1="420" y1="385" x2="465" y2="385" stroke="black"/>
+	<line x1="420" y1="395" x2="465" y2="395" stroke="black"/>
+	<line x1="420" y1="405" x2="465" y2="405" stroke="black"/>
+	<line x1="420" y1="415" x2="465" y2="415" stroke="black"/>
+	
+	<rect x="473.4375" y="365" width="45" height="60" fill="transparent" stroke="black"/>
+	<line x1="473.4375" y1="375" x2="518.4375" y2="375" stroke="black"/>
+	<line x1="473.4375" y1="385" x2="518.4375" y2="385" stroke="black"/>
+	<line x1="473.4375" y1="395" x2="518.4375" y2="395" stroke="black"/>
+	<line x1="473.4375" y1="405" x2="518.4375" y2="405" stroke="black"/>
+	<line x1="473.4375" y1="415" x2="518.4375" y2="415" stroke="black"/>
+	
+	<path d="M 74.5 185
+           Q 103.125 180, 131.25 185
+		   Q 163.5 190, 195.75 185
+		   Q 228 180, 260.25 185
+		   Q 290.5 193, 330 184
+		   Q 340 180, 340 165
+		   T 400.5 150
+           " fill="transparent" stroke="black"/>
+		   
+	<path d="M 74.5 190
+           Q 103.125 185, 131.25 190
+		   Q 163.5 195, 195.75 190
+		   Q 228 185, 260.25 190
+		   Q 290.5 198, 330 189
+		   Q 345 185, 345 170
+		   T 400.5 155
+           " fill="transparent" stroke="black"/>
+		   
+	<polyline points="50.5 182, 340 182, 340 209, 532 209" fill="transparent" stroke-width="2.5" stroke="purple"/>
+	<polygon points="49.5 104, 49.5 117, 45.5 117, 45.5 113" fill="limegreen"/>
+	<path d="M50 190
+           H 45
+           V 117
+           " fill="transparent" stroke="black"/>
+	<line x1="50" y1="125" x2="50" y2="105.25" stroke="black"/>
+	
+	<text x="350" y="140" font-size="0.75em">Park</text>
+	<text x="448" y="195" font-size="1em" fill="purple">Phase 2</text>
+	<text x="448" y="243" font-size="1em" fill="purple">Phase 1</text>
+	<text x="101" y="175" font-size="1em" text-anchor="middle" fill="purple">Phase 2</text>
+	<text x="101" y="210" font-size="1em" text-anchor="middle" fill="purple">Phase 1</text>
+	<text x="220" y="115" font-size="0.75em">Reeves Tr.</text>
+	<text x="448" y="67.5" font-size="0.75em">Lagoon Dr.</text>
+	<text x="220" y="270" font-size="0.75em">Bayhill Ln.</text>
+	<text x="355" y="168" font-size="0.375em">Hike/Bike Trail</text>
+	<text x="450" y="167" font-size="0.6em">Summoners Tr.</text>
+	<text x="450" y="216" font-size="0.6em">Parsons Tr.</text>
+	<text x="220" y="58" font-size="0.6em">alley</text>
+	<text x="220" y="324" font-size="0.6em">alley</text>
+	<text x="450" y="433.5" font-size="0.6em">alley</text>
+	<path id="lake" d="M10 330 v -100" fill="transparent" stroke="transparent"/>
+	<path id="hike" d="M25 295 v -100" fill="transparent" stroke="transparent"/>
+	<path id="chisea" d="M560 250 v -100" fill="transparent" stroke="transparent"/>
+	<path id="monk" d="M70 175 v -100" fill="transparent" stroke="transparent"/>
+	<path id="pardoners" d="M134 175 v -100" fill="transparent" stroke="transparent"/>
+	<path id="friars" d="M134 310 v -100" fill="transparent" stroke="transparent"/>
+	<path id="clarks" d="M200 97.5 v -100" fill="transparent" stroke="transparent"/>
+	<path id="pilgrims" d="M278 175 v -100" fill="transparent" stroke="transparent"/>
+	<path id="chaucer" d="M415 200 v -100" fill="transparent" stroke="transparent"/>
+	<path id="chaucer2" d="M415 375 v -100" fill="transparent" stroke="transparent"/>
+	<path id="alley" d="M472 125 v -100" fill="transparent" stroke="transparent"/>
+	<path id="alley2" d="M472 350 v -100" fill="transparent" stroke="transparent"/>
+	<path id="geoffery" d="M530 200 v -100" fill="transparent" stroke="transparent"/>
+	<path id="geoffery2" d="M530 375 v -100" fill="transparent" stroke="transparent"/>
+	<path id="bayhill" d="M454.5 274.5, L 553.9375 289.5" fill="transparent" stroke="transparent"/>
+	<text font-size="0.75em"><textPath href="#lake">Lake Ray Hubbard</textPath></text>
+	<text font-size="0.625em"><textPath href="#hike">Hike/Bike Trail</textPath></text>
+	<text font-size="1em"><textPath href="#chisea">Chiesa Rd.</textPath></text>
+	<text font-size="0.75em"><textPath href="#monk">Monks Tr.</textPath></text>
+	<text font-size="0.5em"><textPath href="#pardoners">Pardoners Tr.</textPath></text>
+	<text font-size="0.5em"><textPath href="#friars">Friars Tr.</textPath></text>
+	<text font-size="0.5em"><textPath href="#clarks">Clerks Tr.</textPath></text>
+	<text font-size="0.5em"><textPath href="#pilgrims">Pilgrims Way</textPath></text>
+	<text font-size="0.75em"><textPath href="#chaucer">Chaucer Tr.</textPath></text>
+	<text font-size="0.75em"><textPath href="#chaucer2">Chaucer Tr.</textPath></text>
+	<text font-size="0.75em"><textPath href="#geoffery">Geoffrey Ln.</textPath></text>
+	<text font-size="0.75em"><textPath href="#geoffery2">Geoffrey Ln.</textPath></text>
+	<text font-size="0.75em"><textPath href="#bayhill">Bayhill Ln.</textPath></text>
+	<text font-size="0.5em"><textPath href="#alley">alley</textPath></text>
+	<text font-size="0.5em"><textPath href="#alley2">alley</textPath></text>
+	
+	<text x="75" y="382.5" font-size="0.75em">Bart Reeder
+	<tspan x="75" dy="1em">Website TBD</tspan>
+	<tspan x="75" dy="1em">Bart@CanterburyCoveHomes.com</tspan>
+	<tspan x="75" dy="1em">(214) 938-1823</tspan></text>
+	
+	
+	
+	<!--A1 <path d="M 473.4375 75 l 45 13 m -45 0 l 45 -13" fill="transparent" stroke="black"/>-->
+	<!--A2 <path d="M 473.4375 88 l 45 13 m -45 0 l 45 -13" fill="transparent" stroke="black"/>-->
+	<!--A3 <path d="M 473.4375 101 l 45 13 m -45 0 l 45 -13" fill="transparent" stroke="black"/>-->
+	<!--A4 <path d="M 473.4375 114 l 45 13 m -45 0 l 45 -13" fill="transparent" stroke="black"/>-->
+	<!--A5 <path d="M 473.4375 127 l 45 13 m -45 0 l 45 -13" fill="transparent" stroke="black"/>-->
+	<!--A6 <path d="M 473.4375 140 l 45 13 m -45 0 l 45 -13" fill="transparent" stroke="black"/>-->
+	
+	<!--D1 <path d="M 137.5 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D2 <path d="M 153.90625 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D3 <path d="M 170.3125 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D4 <path d="M 186.71875 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D5 <path d="M 203.125 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D6 <path d="M 219.53125 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D7 <path d="M 235.9375 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D8 <path d="M 252.34375 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D15 <path d="M 367.1875 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	<!--D16 <path d="M 383.59375 275 l 16.40625 40 m -16.40625 0 l 16.40625 -40" fill="transparent" stroke="black"/>-->
+	
+	<!--F2 <path d="M 137 60 l 17 40 m -17 0 l 17 -40" fill="transparent" stroke="black"/>-->
+	<!--F3 <path d="M 154 60 l 17 40 m -17 0 l 17 -40" fill="transparent" stroke="black"/>-->
+	<!--F4 <path d="M 171 60 l 17 40 m -17 0 l 17 -40" fill="transparent" stroke="black"/>-->
+	
+	<!--G1 <path d="M 204 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G2 <path d="M 221.8 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G3 <path d="M 239.6 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G4 <path d="M 257.4 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G5 <path d="M 275.2 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G6 <path d="M 293 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G7 <path d="M 310.8 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G8 <path d="M 328.6 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G9 <path d="M 346.4 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G10 <path d="M 364.2 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+	<!--G11 <path d="M 382 60 l 17.8 40 m -17.8 0 l 17.8 -40" fill="transparent" stroke="black"/>-->
+</svg>

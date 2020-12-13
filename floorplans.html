@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Floorplans</title>
+<link rel="stylesheet" href="stylesheet.css" media="print" onload="this.media='all'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="a house plan, homes to build, floor plan, floor plans, blueprint for house, designs for a house, a floor plan of a house, home plan, designs for homes, small house plans, modern house plan, floor plan for home, house layouts, cool house plans, open floor plans, blueprints for home, small house floor plans, design a floor plan, design a house plan, house plan online, modern home plans, modern house floor plans, small home plans, contemporary house plans, open floor house plans, simple house plans, architectural plans, build a house plan, modern floor plans, building plans, custom home plan, houses to build, 3 bedroom house floor plans, design a house online, luxury house plans, open floor plan designs, open floor plan homes, small home floor plans, architect design house plans, architect house plans, build a house online, custom home designs, custom home floor plan, custom house plan, design home plan, design homes online, floor planner online, home layouts, luxury home plans, townhouse floor plans, architect floor plans, architectural designs for houses, blueprints for my house, build a floor plan, build a home plans, bungalow house plans, design blueprints, draw house plans, contemporary home plans, home new design, home plans for sale, houses projects, townhouse plans, unique house plans, architectural home designs, best house plans, custom floor plan, design a floor plan for a house, rowlett, rowlett tx, rowlett texas, city of rowlett, homes for sale in rowlett tx, texas homes for sale, canterbury cove, homes for sale, homes for sale near me, custom homes">
+<meta name="description" content="These are the floorplans for the houses that are being built by Bart Reeder at Canterbury Cove. Reeder Custom Homes was created by Bart Reeder to build new custom patio homes in the newly-developed community of Canterbury Cove in Rowlett, Texas.">
+<link rel="icon" type="image/svg+xml" href="/photos/icons/favicon.svg">
+<style>
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 60%;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<div class="Menu">
+<button onclick="myFunction()" class="dropbtn">&#9776; Floorplans</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a onmouseover="preload('index.html')" href="index.html">Home</a>
+    <a onmouseover="preload('floorplans.html')" href="floorplans.html">Floorplans</a>
+    <a onmouseover="preload('siteplan.html')" href="siteplan.html">Map</a>
+    <a onmouseover="preload('standardfeatures.html')" href="standardfeatures.html">Standard Features</a>
+    <a onmouseover="preload('contact.html')" href="contact.html">Contact</a>
+  </div>
+</div>
+<button id="myBtn" style="margin-top:10px; float: right;">How to print.</button>
+<div id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+	<ol>
+	  <li>Click on the floorplan you would like to print. This will open a priter friendly pdf version of it.</li>
+	  <li>Print the pdf. This varies depending on what device you are using. If you have a Windows PC this is usually Ctrl + P on the keyboard. If you have a Mac it is Command + P.</li>
+    </ol>
+  </div>
+</div>
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+
+function printImg(url) {
+  var win = window.open('');
+  win.document.write('<img src="' + url + '" onload="window.print();window.close()" />');
+  win.focus();
+}
+
+var modal = document.getElementById("myModal");
+var btn = document.getElementById("myBtn");
+var span = document.getElementsByClassName("close")[0];
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+span.onclick = function() {
+  modal.style.display = "none";
+}
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+
+function preload(url) {
+  var hint = document.createElement("link");
+  hint.setAttribute("rel", "prefetch");
+  hint.setAttribute("href", url);
+  document.getElementsByTagName("head")[0].appendChild(hint);
+}
+</script>
+<a href="photos/pdf/vivian.pdf"><picture>
+  <source srcset="
+	photos/webp/vivian/vivian_200.webp 200w,
+	photos/webp/vivian/vivian_370.webp 370w,
+	photos/webp/vivian/vivian_507.webp 507w,
+	photos/webp/vivian/vivian_616.webp 616w,
+	photos/webp/vivian/vivian_721.webp 721w,
+	photos/webp/vivian/vivian_850.webp 850w,
+	photos/webp/vivian/vivian_955.webp 955w,
+	photos/webp/vivian/vivian_974.webp 974w,
+	photos/webp/vivian/vivian_1249.webp 1249w,
+	photos/webp/vivian/vivian_1267.webp 1267w,
+	photos/webp/vivian/vivian_1364.webp 1364w,
+	photos/webp/vivian/vivian_1400.webp 1400w"
+	type="image/webp">
+  <source srcset="
+	photos/jpg/vivian/vivian_200.jpg 200w,
+	photos/jpg/vivian/vivian_370.jpg 370w,
+	photos/jpg/vivian/vivian_507.jpg 507w,
+	photos/jpg/vivian/vivian_616.jpg 616w,
+	photos/jpg/vivian/vivian_721.jpg 721w,
+	photos/jpg/vivian/vivian_850.jpg 850w,
+	photos/jpg/vivian/vivian_955.jpg 955w,
+	photos/jpg/vivian/vivian_974.jpg 974w,
+	photos/jpg/vivian/vivian_1249.jpg 1249w,
+	photos/jpg/vivian/vivian_1267.jpg 1267w,
+	photos/jpg/vivian/vivian_1364.jpg 1364w,
+	photos/jpg/vivian/vivian_1400.jpg 1400w"
+	type="image/jpg">
+  <img alt="vivan floorplan" decoding="async" width='100%' src='photos/jpg/vivian/vivian.jpg'/>
+</picture></a>
+<a href="photos/pdf/juliette.pdf"><picture>
+  <source srcset="
+	photos/webp/juliette/juliette_200.webp 200w,
+	photos/webp/juliette/juliette_389.webp 389w,
+	photos/webp/juliette/juliette_535.webp 535w,
+	photos/webp/juliette/juliette_666.webp 666w,
+	photos/webp/juliette/juliette_778.webp 778w,
+	photos/webp/juliette/juliette_917.webp 917w,
+	photos/webp/juliette/juliette_1017.webp 1017w,
+	photos/webp/juliette/juliette_1135.webp 1135w,
+	photos/webp/juliette/juliette_1241.webp 1241w,
+	photos/webp/juliette/juliette_1353.webp 1353w,
+	photos/webp/juliette/juliette_1400.webp 1400w"
+	type="image/webp">
+  <source srcset="
+	photos/jpg/juliette/juliette_200.jpg 200w,
+	photos/jpg/juliette/juliette_389.jpg 389w,
+	photos/jpg/juliette/juliette_535.jpg 535w,
+	photos/jpg/juliette/juliette_666.jpg 666w,
+	photos/jpg/juliette/juliette_778.jpg 778w,
+	photos/jpg/juliette/juliette_917.jpg 917w,
+	photos/jpg/juliette/juliette_1017.jpg 1017w,
+	photos/jpg/juliette/juliette_1135.jpg 1135w,
+	photos/jpg/juliette/juliette_1241.jpg 1241w,
+	photos/jpg/juliette/juliette_1353.jpg 1353w,
+	photos/jpg/juliette/juliette_1400.jpg 1400w"
+	type="image/jpg">
+  <img alt="juliette floorplan" decoding="async" width='100%' src='photos/jpg/juliette/juliette.jpg'/>
+</picture></a>
+<a href="photos/pdf/theodore.pdf"><picture>
+  <source srcset="
+	photos/webp/theodore/theodore_200.webp 200w,
+	photos/webp/theodore/theodore_458.webp 458w,
+	photos/webp/theodore/theodore_653.webp 653w,
+	photos/webp/theodore/theodore_836.webp 836w,
+	photos/webp/theodore/theodore_1023.webp 1023w,
+	photos/webp/theodore/theodore_1184.webp 1184w,
+	photos/webp/theodore/theodore_1370.webp 1370w,
+	photos/webp/theodore/theodore_1400.webp 1400w"
+	type="image/webp">
+  <source srcset="
+	photos/jpg/theodore/theodore_200.jpg 200w,
+	photos/jpg/theodore/theodore_458.jpg 458w,
+	photos/jpg/theodore/theodore_653.jpg 653w,
+	photos/jpg/theodore/theodore_836.jpg 836w,
+	photos/jpg/theodore/theodore_1023.jpg 1023w,
+	photos/jpg/theodore/theodore_1184.jpg 1184w,
+	photos/jpg/theodore/theodore_1370.jpg 1370w,
+	photos/jpg/theodore/theodore_1400.jpg 1400w"
+	type="image/jpg">
+  <img alt="theodore floorplan" decoding="async" width='100%' src='photos/jpg/theodore/theodore.jpg'/>
+</picture></a>
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Contact</title>
+<link rel="stylesheet" href="stylesheet.css" media="print" onload="this.media='all'">
+<meta name="description" content="Here you can contact Bart Reeder to make an inquiry about Reeder Homes at Canterbury Cove. Reeder Custom Homes was created by Bart Reeder to build new custom patio homes in the newly-developed community of Canterbury Cove in Rowlett, Texas.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="a house plan, homes to build, floor plan, floor plans, blueprint for house, designs for a house, a floor plan of a house, home plan, designs for homes, small house plans, modern house plan, floor plan for home, house layouts, cool house plans, open floor plans, blueprints for home, small house floor plans, design a floor plan, design a house plan, house plan online, modern home plans, modern house floor plans, small home plans, contemporary house plans, open floor house plans, simple house plans, architectural plans, build a house plan, modern floor plans, building plans, custom home plan, houses to build, 3 bedroom house floor plans, design a house online, luxury house plans, open floor plan designs, open floor plan homes, small home floor plans, architect design house plans, architect house plans, build a house online, custom home designs, custom home floor plan, custom house plan, design home plan, design homes online, floor planner online, home layouts, luxury home plans, townhouse floor plans, architect floor plans, architectural designs for houses, blueprints for my house, build a floor plan, build a home plans, bungalow house plans, design blueprints, draw house plans, contemporary home plans, home new design, home plans for sale, houses projects, townhouse plans, unique house plans, architectural home designs, best house plans, custom floor plan, design a floor plan for a house, rowlett, rowlett tx, rowlett texas, city of rowlett, homes for sale in rowlett tx, texas homes for sale, canterbury cove, homes for sale, homes for sale near me, custom homes">
+<link rel="icon" type="image/svg+xml" href="/photos/icons/favicon.svg">
+</head>
+<body>
+
+<div class="Menu">
+<button onclick="myFunction()" class="dropbtn">&#9776; Contact</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a onmouseover="preload('index.html')" href="index.html">Home</a>
+    <a onmouseover="preload('floorplans.html')" href="floorplans.html">Floorplans</a>
+    <a onmouseover="preload('siteplan.html')" href="siteplan.html">Map</a>
+    <a onmouseover="preload('standardfeatures.html')" href="standardfeatures.html">Standard Features</a>
+    <a onmouseover="preload('contact.html')" href="contact.html">Contact</a>
+  </div>
+</div>
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+
+function confirm() {
+  alert("Your email program should open up and show you an already filled out email, all you need to do is click send. If this doesn't happen then the contact form likely failed and you should try using one of the contact methods listed above.");
+}
+
+function preload(url) {
+  var hint = document.createElement("link");
+  hint.setAttribute("rel", "prefetch");
+  hint.setAttribute("href", url);
+  document.getElementsByTagName("head")[0].appendChild(hint);
+}
+</script>
+<p>Email: <a href="mailto:Bart@CanterburyCoveHomes.com">Bart@CanterburyCoveHomes.com</a><br>
+Call/Text: <a href="tel:+1-214-938-1823">(214) 938-1823</a></p>
+<hr>
+<form name="form" action="mailto:Bart@CanterburyCoveHomes.com?subject=New Form Response" method="post" enctype="text/plain" style="width: 300px; margin: 0 auto;" onsubmit="confirm();">
+<label>
+Name:<br>
+<textarea name="name" rows="1" cols="40"></textarea><br>
+</label>
+<label>
+Contact Info:<br>
+<textarea name="contact info" rows="2" cols="40"></textarea><br>
+</label>
+<label>
+Message:<br>
+<textarea name="message" rows="5" cols="40"></textarea><br>
+</label>
+<input type="submit" value="Send">
+</form>
+</body>
+</html>

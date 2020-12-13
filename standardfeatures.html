@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Standard Features</title>
+<link rel="stylesheet" href="stylesheet.css" media="print" onload="this.media='all'">
+<meta name="description" content="Here is the list of features that are included with all Reeder Custom Homes built at Canterbury Cove. Reeder Custom Homes was created by Bart Reeder to build new custom patio homes in the newly-developed community of Canterbury Cove in Rowlett, Texas.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="a house plan, homes to build, floor plan, floor plans, blueprint for house, designs for a house, a floor plan of a house, home plan, designs for homes, small house plans, modern house plan, floor plan for home, house layouts, cool house plans, open floor plans, blueprints for home, small house floor plans, design a floor plan, design a house plan, house plan online, modern home plans, modern house floor plans, small home plans, contemporary house plans, open floor house plans, simple house plans, architectural plans, build a house plan, modern floor plans, building plans, custom home plan, houses to build, 3 bedroom house floor plans, design a house online, luxury house plans, open floor plan designs, open floor plan homes, small home floor plans, architect design house plans, architect house plans, build a house online, custom home designs, custom home floor plan, custom house plan, design home plan, design homes online, floor planner online, home layouts, luxury home plans, townhouse floor plans, architect floor plans, architectural designs for houses, blueprints for my house, build a floor plan, build a home plans, bungalow house plans, design blueprints, draw house plans, contemporary home plans, home new design, home plans for sale, houses projects, townhouse plans, unique house plans, architectural home designs, best house plans, custom floor plan, design a floor plan for a house, rowlett, rowlett tx, rowlett texas, city of rowlett, homes for sale in rowlett tx, texas homes for sale, canterbury cove, homes for sale, homes for sale near me, custom homes">
+<link rel="icon" type="image/svg+xml" href="/photos/icons/favicon.svg">
+</head>
+<body>
+
+<div class="Menu">
+<button onclick="myFunction()" class="dropbtn">&#9776; Standard Features</button>
+  <div id="myDropdown" class="dropdown-content">
+    <a onmouseover="preload('index.html')" href="index.html">Home</a>
+    <a onmouseover="preload('floorplans.html')" href="floorplans.html">Floorplans</a>
+    <a onmouseover="preload('siteplan.html')" href="siteplan.html">Map</a>
+    <a onmouseover="preload('standardfeatures.html')" href="standardfeatures.html">Standard Features</a>
+    <a onmouseover="preload('contact.html')" href="contact.html">Contact</a>
+  </div>
+</div>
+
+<h4>Exterior</h4>
+<ul>
+<li>Unique and customizable Front Elevations, designed for these homes/community, including options for Covered front and rear porches/patios</li>
+<li>Brick/Stone Front, Hardie Fiber Cement Panels/Siding on sides/rear</li>
+<li>KrestMark Vinyl-framed, Dual Paned, Argon-filled, Low-E windows</li>
+<li>Choice of Metal or Solid Wood Front Doors</li>
+<li>2-car garage door with LiftMaster Smart automatic opener and remote controls</li>
+<li>Fully sodded front and side yard, with automatic sprinkler system</li>
+<li>Privacy Fenced Side Yard, with options for wrought iron sections</li>
+<li>30-year composition shingle roof</li>
+</ul>
+
+<h4>Construction Methods</h4>
+<ul>
+<li>Post-Tension engineered slab, based on soil test report for this community</li>
+<li>Borate Pre-treatment on first floor lumber to prevent wood-destroying insect damage</li>
+<li>Blown cellulose insulation in walls and ceiling (R-44 insulation in Attic areas)</li>
+<li>Orange Peel-texture on interior drywall (upgrade options available)</li>
+<li>Security system on first floor windows/doors</li>
+<li>Surround sound pre-wiring in Main Living Area</li>
+<li>Professionally designed 16-SEER, natural gas-fired HVAC system designed for maximum ventilation, including Smart Honeywell thermostats (options available for superior allergen filtering)</li>
+</ul>
+
+<h4>Interior</h4>
+<ul>
+<li>Specially selected standard flooring materials throughout - Engineered Wood flooring at Entry, carpet through living areas and bedroom, porcelain tile in Kitchens and Baths</li>
+<li>Two-panel interior doors</li>
+<li>Choice of Paint colors - one wall color throughout, with Acoustic White ceiling; Accent Color in Master Bedroom</li>
+<li>Customized Woodmont Cabinets, in choice of standard finishes, specifically selected for maximum storage and functionality; options for specialty cabinets and other finishes</li>
+<li>Delta plumbing fixtures in all Baths and Kitchen, selected for efficiency and practicality</li>
+<li>Satin Nickel Bathroom and door hardware throughout</li>
+<li>Energy-efficient Light Fixtures and Recessed Lighting with LED bulbs (per plan)</li>
+<li>Whirlpool Appliances in Kitchen (Range (smooth-top electric), Microwave, Dishwasher) in black. Stainless Steel and Gas Range also available</li>
+<li>Granite countertops in Kitchen, with white ‘subway’ tile backsplash (other countertop and backsplash options available), and single-bowl stainless steel undermount sink</li>
+<li>Elegant Bathrooms with Separate Shower and Tub in Master Bath (per plan), with options for combining into one extra-large Master Shower</li>
+</ul>
+
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+
+function preload(url) {
+  var hint = document.createElement("link");
+  hint.setAttribute("rel", "prefetch");
+  hint.setAttribute("href", url);
+  document.getElementsByTagName("head")[0].appendChild(hint);
+}
+</script>
+</body>
+</html>
